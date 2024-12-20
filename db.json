@@ -1,0 +1,34 @@
+{
+    "posts" : [
+      {
+        "id" : 1,
+        "title" : "Cách nấu phở bò truyền thống",
+        "body" : "Hướng dẫn chi tiết cách nấu phở bò truyền thống"
+      },
+      {
+        "id" : 2,
+        "title" : "Du lịch Đà Lạt",
+        "body" : "Kinh nghiệm du lịch Đà Lạt tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua",
+        "base64Image" : ""
+      },
+      {
+        "id" : 3,
+        "title" : "Hướng dẫn sử dụng Flutter",
+        "body" : "Giới thiệu và hướng dẫn cơ bản về acsch sử dụng Flutter để phát triển ứng dụng",
+        "base64Image" : ""
+      }
+    ],
+  
+    "users" : [
+      {
+        "username" : "hoang",
+        "password" : "123",
+        "fullname" : "Ngô Văn Huy Hoàng"
+      },
+      {
+        "username" : "kien",
+        "password" : "123",
+        "fullname" : "Ngô Văn Kiên"
+      }
+    ]
+  }
